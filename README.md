@@ -20,7 +20,7 @@ Mobile view:
 ![](https://github.com/manujayakumar/3-column-preview-card-component-main/blob/main/screenshot/mobile-view.PNG)
 
 ### Links
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-flexbox-TdEpWyzcme)
 - Live Site URL: [Live Site at Vercel](https://3-column-preview-card-component-main-nu-ebon.vercel.app/)
 ## My process
 ### Built with
