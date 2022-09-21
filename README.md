@@ -13,11 +13,12 @@
 ### ScreenShot
 Desktop view:
 
-![]()
+![](https://github.com/manujayakumar/3-column-preview-card-component-main/blob/main/screenshot/desktop-view.PNG)
 
 Mobile view:
 
-![]()
+![](https://github.com/manujayakumar/3-column-preview-card-component-main/blob/main/screenshot/mobile-view.PNG)
+
 ### Links
 - Solution URL: [Frontend Mentor Solution]()
 - Live Site URL: [Live Site at Vercel]()
