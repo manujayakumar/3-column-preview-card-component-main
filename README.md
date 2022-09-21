@@ -21,7 +21,7 @@ Mobile view:
 
 ### Links
 - Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Site at Vercel]()
+- Live Site URL: [Live Site at Vercel](https://3-column-preview-card-component-main-nu-ebon.vercel.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
