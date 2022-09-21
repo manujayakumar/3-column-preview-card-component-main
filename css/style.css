@@ -67,7 +67,7 @@ button{
 .container{
     max-width: 23.5rem;
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
     margin: 2rem 0;
     border-radius: 7px;
     overflow: hidden;
