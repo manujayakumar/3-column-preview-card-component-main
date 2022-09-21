@@ -28,11 +28,11 @@ Mobile view:
 - Flexbox
 - Responsive Design
 ### What I learned
-I have learn how use transform and transition property and make content responsive. 
+I have used flex and flex-flow property to arrange the content in row and column and make content responsive. 
 ### Useful resources
 - W3 Schools 
-  - [Flex-box]()
-  - [Flex-flow]()
+  - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+  - [Flex-flow](https://www.w3schools.com/cssref/css3_pr_flex-flow.asp)
 ## Author
 - Github - [manujayakumar](https://github.com/manujayakumar)
 - Frontend Mentor - [manujayakumar](https://www.frontendmentor.io/profile/manujayakumar)
